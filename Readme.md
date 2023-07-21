@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Gan network.<br>I am interested in learning Machine learning and Deep learning<br>
+I am currently in my final year of B.tech in CSE(AIML).<br>I am interested in learning Machine learning and Deep learning<br>
 
 
 ## 🌐 Socials:
