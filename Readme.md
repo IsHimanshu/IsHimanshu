@@ -4,7 +4,7 @@ I am currently in my final year of B.tech in CSE(AIML).<br>I am interested in le
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Slothfull_geek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IsHimanshu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Himanshusrivastava.me-blue)](https://himanshusrivastava.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Himanshusrivastava.me-blue)](https://himanshusrivastava.tech)
 
 
 
